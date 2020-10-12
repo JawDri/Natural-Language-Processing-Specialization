@@ -5,7 +5,6 @@ b) Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is import
 c) Write a better auto-complete algorithm using an N-gram language model, and 
 d) Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
  
-Please make sure that you’re comfortable programming in Python and have a basic knowledge of machine learning, matrix multiplications, and conditional probability.
 
 By the end of this Specialization, you will have designed NLP applications that perform question-answering and sentiment analysis, created tools to translate languages and summarize text, and even built a chatbot!
 
